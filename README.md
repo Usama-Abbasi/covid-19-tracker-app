@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
- Click here:usama-bootcamp-covid19-tracker-app.surge.sh
+ Click here:http://usama-bootcamp-covid19-tracker-app.surge.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
